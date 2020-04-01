@@ -1,0 +1,35 @@
+:root{
+    --color--theme: #364F6B;
+}
+
+body{
+    font-family: 'Kanit', sans-serif;
+    background: #f1f1f1;
+}
+
+.navbar{
+    background-color: var(--color--theme);
+}
+
+.navbar-nav .nav-link{
+    color: white;
+}
+
+.bg-theme{
+    background-color: var(--color--theme);
+}
+
+.navbar-brand{
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    color: white;
+}
+
+.card-body{
+    border-radius: 10px;
+}
+
+.card{
+    border-radius: 10px;
+    border: 0px;
+}
