@@ -10,7 +10,7 @@
   "dependencies": {
     "bootstrap": "^4.4.1",
     "chart.js": "^2.9.3",
-    "datatables.net": "^1.10.20",
+    "datatables.net": "^1.10.22",
     "datatables.net-bs4": "^1.10.20",
     "google-charts": "^2.0.0",
     "isomorphic-unfetch": "^3.0.0",
