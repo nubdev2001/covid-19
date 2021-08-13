@@ -17,7 +17,7 @@
     "jquery": "^3.4.1",
     "lodash": "^4.17.15",
     "moment": "^2.24.0",
-    "next": "9.3.3",
+    "next": "11.1.0",
     "react": "16.13.1",
     "react-data-table-component": "^6.3.4",
     "react-dom": "16.13.1",
